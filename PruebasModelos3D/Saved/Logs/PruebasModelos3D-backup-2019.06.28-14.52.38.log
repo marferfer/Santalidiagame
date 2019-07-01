@@ -1,0 +1,1305 @@
+﻿Log file open, 06/28/19 16:41:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PruebasModelos3D
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183465
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.099s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=SweakerGames -epicuserid=696ef09d41a44cfe8b903bc91b71afbc -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.28-14.41.04:356][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.28-14.41.04:356][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.28-14.41.04:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:356][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.28-14.41.04:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:356][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.28-14.41.04:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.28-14.41.04:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.28-14.41.04:369][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.28-14.41.04:369][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.28-14.41.04:369][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.28-14.41.04:397][  0]LogHAL: Display: Platform has ~ 16 GB [17139073024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.28-14.41.04:397][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.28-14.41.04:397][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.28-14.41.04:397][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.28-14.41.04:398][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Scalability.ini]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.28-14.41.04:399][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.28-14.41.04:399][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Config/Windows/Engine.ini]
+[2019.06.28-14.41.04:399][  0]LogInit: Computer: DESKTOP-IOFG5UK
+[2019.06.28-14.41.04:399][  0]LogInit: User: MarioPC
+[2019.06.28-14.41.04:399][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.28-14.41.04:399][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.28-14.41.04:400][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.06.28-14.41.04:400][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.28-14.41.04:400][  0]LogMemory: Process Physical Memory: 102.22 MB used, 102.22 MB peak
+[2019.06.28-14.41.04:400][  0]LogMemory: Process Virtual Memory: 84.45 MB used, 84.45 MB peak
+[2019.06.28-14.41.04:400][  0]LogMemory: Physical Memory: 5584.95 MB used,  10760.14 MB free, 16345.09 MB total
+[2019.06.28-14.41.04:400][  0]LogMemory: Virtual Memory: 4626.14 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.06.28-14.41.04:421][  0]LogInit: Using OS detected language (es-ES).
+[2019.06.28-14.41.04:421][  0]LogInit: Using OS detected locale (es-ES).
+[2019.06.28-14.41.04:422][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.06.28-14.41.04:979][  0]LogStreaming: Display: Took  0.558s to InitEngineTextLocalization.
+[2019.06.28-14.41.04:979][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.28-14.41.05:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.28-14.41.05:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.28-14.41.05:349][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.28-14.41.05:349][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.28-14.41.05:407][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2019.06.28-14.41.05:407][  0]LogD3D11RHI:       2017/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.28-14.41.05:411][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.28-14.41.05:411][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.28-14.41.05:411][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.28-14.41.05:420][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.28-14.41.05:420][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.28-14.41.05:420][  0]LogWindows: EnumDisplayDevices:
+[2019.06.28-14.41.05:420][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2019.06.28-14.41.05:420][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2019.06.28-14.41.05:421][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.06.28-14.41.05:421][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.06.28-14.41.05:421][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.28-14.41.05:422][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2019.06.28-14.41.05:422][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.06.28-14.41.05:422][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.06.28-14.41.05:422][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2019.06.28-14.41.05:467][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.28-14.41.05:482][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.28-14.41.05:924][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.28-14.41.05:938][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.28-14.41.05:954][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.28-14.41.05:969][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.28-14.41.05:985][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.28-14.41.06:001][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.28-14.41.06:015][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.28-14.41.06:030][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.28-14.41.06:037][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.41.06:129][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.28-14.41.06:192][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.28-14.41.06:192][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.28-14.41.06:219][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.28-14.41.06:219][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.28-14.41.06:233][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.28-14.41.06:248][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.28-14.41.06:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.28-14.41.06:275][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.28-14.41.06:329][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.28-14.41.06:330][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.28-14.41.06:330][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.28-14.41.06:383][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Intermediate/Shaders/WorkingDirectory/14700/).
+[2019.06.28-14.41.06:384][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mario-PC/AppData/Local/Temp/UnrealShaderWorkingDir/9278BC204B48F4383FADDEBE179E638C/'.
+[2019.06.28-14.41.06:386][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.28-14.41.06:386][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.28-14.41.06:386][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.28-14.41.07:007][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Mario-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mario-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.28-14.41.07:073][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.28-14.41.07:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.28-14.41.07:091][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.28-14.41.07:091][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.28-14.41.07:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mario-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.28-14.41.07:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.28-14.41.07:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.28-14.41.07:133][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.28-14.41.07:135][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.28-14.41.07:135][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.28-14.41.07:230][  0]LogAssetRegistry: FAssetRegistry took 0.0358 seconds to start up
+[2019.06.28-14.41.07:677][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.28-14.41.07:854][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.28-14.41.07:857][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.28-14.41.07:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.28-14.41.07:857][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.28-14.41.07:857][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.28-14.41.07:873][  0]LogNetVersion: PruebasModelos3D 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3126331944)
+[2019.06.28-14.41.08:563][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.188971 seconds
+[2019.06.28-14.41.08:574][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.28-14.41.08:574][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.06.28-14.41.08:574][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.28-14.41.09:509][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.28-14.41.09:523][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.28-14.41.10:231][  0]SourceControl: El control de código fuente está desactivado
+[2019.06.28-14.41.10:231][  0]SourceControl: El control de código fuente está desactivado
+[2019.06.28-14.41.10:232][  0]SourceControl: El control de código fuente está desactivado
+[2019.06.28-14.41.10:233][  0]SourceControl: El control de código fuente está desactivado
+[2019.06.28-14.41.10:395][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.28-14.41.10:504][  0]LogOcInput: OculusInput pre-init called
+[2019.06.28-14.41.10:644][  0]LogEngine: Initializing Engine...
+[2019.06.28-14.41.10:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.28-14.41.10:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.28-14.41.10:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.28-14.41.10:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.28-14.41.10:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.28-14.41.10:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.28-14.41.10:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.28-14.41.11:002][  0]LogInit: XAudio2 using 'Altavoces (2- Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.28-14.41.11:019][  0]LogInit: FAudioDevice initialized.
+[2019.06.28-14.41.11:019][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.28-14.41.11:260][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/Mario-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.28-14.41.11:266][  0]LogInit: Texture streaming: Enabled
+[2019.06.28-14.41.11:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.28-14.41.11:294][  0]LogInit: Transaction tracking system initialized
+[2019.06.28-14.41.11:316][  0]BlueprintLog: New page: Cargar el editor
+[2019.06.28-14.41.11:404][  0]LocalizationService: Localization service is disabled
+[2019.06.28-14.41.12:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mario-PC/Desktop/PruebasModelos3D/Content/' took 0.02s
+[2019.06.28-14.41.12:041][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.28-14.41.12:042][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.28-14.41.12:042][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.28-14.41.12:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.28-14.41.12:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.28-14.41.12:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.28-14.41.12:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.28-14.41.12:184][  0]SourceControl: El control de código fuente está desactivado
+[2019.06.28-14.41.12:184][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.28-14.41.12:184][  0]LightingResults: New page: Diseñar la iluminación
+[2019.06.28-14.41.12:187][  0]MapCheck: New page: Revisión del mapa
+[2019.06.28-14.41.12:187][  0]LightingResults: New page: Diseñar la iluminación
+[2019.06.28-14.41.13:244][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.28-14.41.13:259][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.28-14.41.13:279][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.28-14.41.13:279][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,151ms to complete.
+[2019.06.28-14.41.13:279][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.095
+[2019.06.28-14.41.13:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.41.13:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.41.13:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.41.13:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.41.13:484][  0]LogCollectionManager: Loaded 0 collections in 0.002225 seconds
+[2019.06.28-14.41.13:514][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Collections/' took 0.01s
+[2019.06.28-14.41.13:514][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mario-PC/Desktop/PruebasModelos3D/Content/Developers/MarioPC/Collections/' took 0.00s
+[2019.06.28-14.41.13:514][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mario-PC/Desktop/PruebasModelos3D/Content/Collections/' took 0.01s
+[2019.06.28-14.41.13:514][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.28-14.41.13:526][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2651 classes and 620 folders.
+[2019.06.28-14.41.13:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.41.13:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.28-14.41.13:944][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.41.13:950][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.28-14.41.13:975][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.28-14.41.13:978][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.28-14.41.13:993][  0]LogSlate: Took 0.005985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.28-14.41.14:168][  0]LogRenderer: Reallocating scene render targets to support 1616x652 Format 10 NumSamples 1 (Frame:1).
+[2019.06.28-14.41.14:237][  0]LogSlate: Took 0.004937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.28-14.41.14:338][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.41.14:338][  0]LogLoad: (Engine Initialization) Total time: 11.50 seconds
+[2019.06.28-14.41.14:338][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.28-14.41.14:406][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.28-14.41.14:697][  3]LogAssetRegistry: Asset discovery search completed in 7.4903 seconds
+[2019.06.28-14.41.14:699][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.28-14.41.14:699][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.06.28-14.41.20:473][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AzoteaPrincipal)
+[2019.06.28-14.41.21:506][273]Cmd: DELETE
+[2019.06.28-14.41.21:506][273]Cmd: ACTOR DELETE
+[2019.06.28-14.41.21:513][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.41.21:535][273]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.06.28-14.41.23:929][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.41.26:243][589]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.41.26:251][589]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.28-14.41.37:967][830]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.41.47:241][951]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Mario-PC\Desktop\Azotea Santa Lidia.fbx)
+[2019.06.28-14.41.47:352][951]LogFbx: Loading FBX Scene from C:\Users\Mario-PC\Desktop\Azotea Santa Lidia.fbx
+[2019.06.28-14.41.47:584][951]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.28-14.41.48:524][951]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2019.06.28-14.41.48:690][951]LogMaterial: Display: Missing cached shader map for material _auto_, compiling. 
+[2019.06.28-14.41.48:739][951]LogFbx: Warning: Triangulating static mesh Mesh1
+[2019.06.28-14.41.48:758][951]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.28-14.41.48:758][951]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.28-14.41.48:758][951]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.28-14.41.48:764][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh1...
+[2019.06.28-14.41.48:892][951]LogStaticMesh: Built static mesh [0.13s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh1.Azotea_Santa_Lidia_Mesh1
+[2019.06.28-14.41.48:905][951]LogFbx: Warning: Triangulating static mesh Mesh2
+[2019.06.28-14.41.48:943][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh2...
+[2019.06.28-14.41.49:082][951]LogStaticMesh: Built static mesh [0.14s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh2.Azotea_Santa_Lidia_Mesh2
+[2019.06.28-14.41.49:095][951]LogFbx: Warning: Triangulating static mesh Mesh3
+[2019.06.28-14.41.49:123][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh3...
+[2019.06.28-14.41.49:248][951]LogStaticMesh: Built static mesh [0.12s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh3.Azotea_Santa_Lidia_Mesh3
+[2019.06.28-14.41.49:284][951]LogFbx: Warning: Triangulating static mesh Mesh4
+[2019.06.28-14.41.49:319][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh4...
+[2019.06.28-14.41.49:477][951]LogStaticMesh: Built static mesh [0.16s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh4.Azotea_Santa_Lidia_Mesh4
+[2019.06.28-14.41.49:526][951]LogMaterial: Display: Missing cached shader map for material FrontColor, compiling. 
+[2019.06.28-14.41.49:585][951]LogMaterial: Display: Missing cached shader map for material BackColor, compiling. 
+[2019.06.28-14.41.49:610][951]LogFbx: Warning: Triangulating static mesh Mesh5
+[2019.06.28-14.41.49:651][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh5...
+[2019.06.28-14.41.49:718][951]LogStaticMesh: Built static mesh [0.07s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh5.Azotea_Santa_Lidia_Mesh5
+[2019.06.28-14.41.49:747][951]LogFbx: Warning: Triangulating static mesh Mesh6
+[2019.06.28-14.41.49:781][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh6...
+[2019.06.28-14.41.49:823][951]LogStaticMesh: Built static mesh [0.04s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh6.Azotea_Santa_Lidia_Mesh6
+[2019.06.28-14.41.49:836][951]LogFbx: Warning: Triangulating static mesh Mesh7
+[2019.06.28-14.41.49:871][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh7...
+[2019.06.28-14.41.50:024][951]LogStaticMesh: Built static mesh [0.15s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh7.Azotea_Santa_Lidia_Mesh7
+[2019.06.28-14.41.50:097][951]LogFbx: Warning: Triangulating static mesh Mesh8
+[2019.06.28-14.41.50:102][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh8...
+[2019.06.28-14.41.50:108][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh8.Azotea_Santa_Lidia_Mesh8
+[2019.06.28-14.41.50:125][951]LogFbx: Warning: Triangulating static mesh Mesh9
+[2019.06.28-14.41.50:162][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh9...
+[2019.06.28-14.41.50:191][951]LogStaticMesh: Built static mesh [0.03s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh9.Azotea_Santa_Lidia_Mesh9
+[2019.06.28-14.41.50:213][951]LogFbx: Warning: Triangulating static mesh Mesh10
+[2019.06.28-14.41.50:218][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh10...
+[2019.06.28-14.41.50:226][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh10.Azotea_Santa_Lidia_Mesh10
+[2019.06.28-14.41.50:235][951]LogFbx: Warning: Triangulating static mesh Mesh11
+[2019.06.28-14.41.50:239][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh11...
+[2019.06.28-14.41.50:247][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh11.Azotea_Santa_Lidia_Mesh11
+[2019.06.28-14.41.50:257][951]LogFbx: Warning: Triangulating static mesh Mesh12
+[2019.06.28-14.41.50:260][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh12...
+[2019.06.28-14.41.50:268][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh12.Azotea_Santa_Lidia_Mesh12
+[2019.06.28-14.41.50:278][951]LogFbx: Warning: Triangulating static mesh Mesh13
+[2019.06.28-14.41.50:283][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh13...
+[2019.06.28-14.41.50:291][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh13.Azotea_Santa_Lidia_Mesh13
+[2019.06.28-14.41.50:294][951]LogFbx: Warning: Triangulating static mesh Mesh14
+[2019.06.28-14.41.50:298][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh14...
+[2019.06.28-14.41.50:306][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh14.Azotea_Santa_Lidia_Mesh14
+[2019.06.28-14.41.50:321][951]LogFbx: Warning: Triangulating static mesh Mesh15
+[2019.06.28-14.41.50:324][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh15...
+[2019.06.28-14.41.50:344][951]LogStaticMesh: Built static mesh [0.02s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh15.Azotea_Santa_Lidia_Mesh15
+[2019.06.28-14.41.50:351][951]LogFbx: Warning: Triangulating static mesh Mesh16
+[2019.06.28-14.41.50:355][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh16...
+[2019.06.28-14.41.50:364][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh16.Azotea_Santa_Lidia_Mesh16
+[2019.06.28-14.41.50:374][951]LogFbx: Warning: Triangulating static mesh Mesh17
+[2019.06.28-14.41.50:378][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh17...
+[2019.06.28-14.41.50:385][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh17.Azotea_Santa_Lidia_Mesh17
+[2019.06.28-14.41.50:400][951]LogFbx: Warning: Triangulating static mesh Mesh18
+[2019.06.28-14.41.50:405][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh18...
+[2019.06.28-14.41.50:417][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh18.Azotea_Santa_Lidia_Mesh18
+[2019.06.28-14.41.50:427][951]LogFbx: Warning: Triangulating static mesh Mesh19
+[2019.06.28-14.41.50:430][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh19...
+[2019.06.28-14.41.50:437][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh19.Azotea_Santa_Lidia_Mesh19
+[2019.06.28-14.41.50:439][951]LogFbx: Warning: Triangulating static mesh Mesh20
+[2019.06.28-14.41.50:442][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh20...
+[2019.06.28-14.41.50:449][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh20.Azotea_Santa_Lidia_Mesh20
+[2019.06.28-14.41.50:462][951]LogFbx: Warning: Triangulating static mesh Mesh21
+[2019.06.28-14.41.50:465][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh21...
+[2019.06.28-14.41.50:473][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh21.Azotea_Santa_Lidia_Mesh21
+[2019.06.28-14.41.50:477][951]LogFbx: Warning: Triangulating static mesh Mesh22
+[2019.06.28-14.41.50:480][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh22...
+[2019.06.28-14.41.50:488][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh22.Azotea_Santa_Lidia_Mesh22
+[2019.06.28-14.41.50:491][951]LogFbx: Warning: Triangulating static mesh Mesh23
+[2019.06.28-14.41.50:494][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh23...
+[2019.06.28-14.41.50:501][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh23.Azotea_Santa_Lidia_Mesh23
+[2019.06.28-14.41.50:509][951]LogFbx: Warning: Triangulating static mesh Mesh24
+[2019.06.28-14.41.50:517][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh24...
+[2019.06.28-14.41.50:524][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh24.Azotea_Santa_Lidia_Mesh24
+[2019.06.28-14.41.50:533][951]LogFbx: Warning: Triangulating static mesh Mesh25
+[2019.06.28-14.41.50:538][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh25...
+[2019.06.28-14.41.50:562][951]LogStaticMesh: Built static mesh [0.02s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh25.Azotea_Santa_Lidia_Mesh25
+[2019.06.28-14.41.50:564][951]LogFbx: Warning: Triangulating static mesh Mesh26
+[2019.06.28-14.41.50:568][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh26...
+[2019.06.28-14.41.50:575][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh26.Azotea_Santa_Lidia_Mesh26
+[2019.06.28-14.41.50:591][951]LogFbx: Warning: Triangulating static mesh Mesh27
+[2019.06.28-14.41.50:595][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh27...
+[2019.06.28-14.41.50:601][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh27.Azotea_Santa_Lidia_Mesh27
+[2019.06.28-14.41.50:603][951]LogFbx: Warning: Triangulating static mesh Mesh28
+[2019.06.28-14.41.50:608][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh28...
+[2019.06.28-14.41.50:615][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh28.Azotea_Santa_Lidia_Mesh28
+[2019.06.28-14.41.50:623][951]LogFbx: Warning: Triangulating static mesh Mesh29
+[2019.06.28-14.41.50:626][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh29...
+[2019.06.28-14.41.50:633][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh29.Azotea_Santa_Lidia_Mesh29
+[2019.06.28-14.41.50:634][951]LogFbx: Warning: Triangulating static mesh Mesh30
+[2019.06.28-14.41.50:638][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh30...
+[2019.06.28-14.41.50:645][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh30.Azotea_Santa_Lidia_Mesh30
+[2019.06.28-14.41.50:655][951]LogFbx: Warning: Triangulating static mesh Mesh31
+[2019.06.28-14.41.50:662][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh31...
+[2019.06.28-14.41.50:669][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh31.Azotea_Santa_Lidia_Mesh31
+[2019.06.28-14.41.50:680][951]LogFbx: Warning: Triangulating static mesh Mesh32
+[2019.06.28-14.41.50:683][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh32...
+[2019.06.28-14.41.50:690][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh32.Azotea_Santa_Lidia_Mesh32
+[2019.06.28-14.41.50:703][951]LogFbx: Warning: Triangulating static mesh Mesh33
+[2019.06.28-14.41.50:706][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh33...
+[2019.06.28-14.41.50:715][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh33.Azotea_Santa_Lidia_Mesh33
+[2019.06.28-14.41.50:720][951]LogFbx: Warning: Triangulating static mesh Mesh34
+[2019.06.28-14.41.50:726][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh34...
+[2019.06.28-14.41.50:733][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh34.Azotea_Santa_Lidia_Mesh34
+[2019.06.28-14.41.50:736][951]LogFbx: Warning: Triangulating static mesh Mesh35
+[2019.06.28-14.41.50:740][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh35...
+[2019.06.28-14.41.50:747][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh35.Azotea_Santa_Lidia_Mesh35
+[2019.06.28-14.41.50:750][951]LogFbx: Warning: Triangulating static mesh Mesh36
+[2019.06.28-14.41.50:753][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh36...
+[2019.06.28-14.41.50:763][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh36.Azotea_Santa_Lidia_Mesh36
+[2019.06.28-14.41.50:772][951]LogFbx: Warning: Triangulating static mesh Mesh37
+[2019.06.28-14.41.50:776][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh37...
+[2019.06.28-14.41.50:783][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh37.Azotea_Santa_Lidia_Mesh37
+[2019.06.28-14.41.50:784][951]LogFbx: Warning: Triangulating static mesh Mesh38
+[2019.06.28-14.41.50:788][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh38...
+[2019.06.28-14.41.50:796][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh38.Azotea_Santa_Lidia_Mesh38
+[2019.06.28-14.41.50:807][951]LogFbx: Warning: Triangulating static mesh Mesh39
+[2019.06.28-14.41.50:811][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh39...
+[2019.06.28-14.41.50:818][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh39.Azotea_Santa_Lidia_Mesh39
+[2019.06.28-14.41.50:835][951]LogFbx: Warning: Triangulating static mesh Mesh40
+[2019.06.28-14.41.50:839][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh40...
+[2019.06.28-14.41.50:846][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh40.Azotea_Santa_Lidia_Mesh40
+[2019.06.28-14.41.50:857][951]LogFbx: Warning: Triangulating static mesh Mesh41
+[2019.06.28-14.41.50:860][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh41...
+[2019.06.28-14.41.50:868][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh41.Azotea_Santa_Lidia_Mesh41
+[2019.06.28-14.41.50:883][951]LogFbx: Warning: Triangulating static mesh Mesh42
+[2019.06.28-14.41.50:895][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh42...
+[2019.06.28-14.41.50:910][951]LogStaticMesh: Built static mesh [0.01s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh42.Azotea_Santa_Lidia_Mesh42
+[2019.06.28-14.41.50:929][951]LogFbx: Warning: Triangulating static mesh Mesh43
+[2019.06.28-14.41.51:709][951]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.28-14.41.51:801][951]LogStaticMesh: Generando la malla estática Azotea_Santa_Lidia_Mesh43...
+[2019.06.28-14.41.52:574][951]LogStaticMesh: Built static mesh [0.77s] /Game/MotelPrincipal/Azotea_Santa_Lidia_Mesh43.Azotea_Santa_Lidia_Mesh43
+[2019.06.28-14.41.52:617][951]LogStaticMesh: Warning: Azotea_Santa_Lidia_Mesh43 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.06.28-14.41.52:617][951]LogStaticMesh: Warning: Azotea_Santa_Lidia_Mesh43 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.28-14.41.52:708][951]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.28-14.41.52:708][951]FBXImport: Warning: Azotea_Santa_Lidia_Mesh43 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2019.06.28-14.41.52:708][951]FBXImport: Warning: Azotea_Santa_Lidia_Mesh43 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.28-14.41.55:075][ 25]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.28-14.41.56:796][103]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.28-14.41.56:854][109]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.28-14.41.59:043][244]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.06.28-14.41.59:050][244]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.06.28-14.42.06:017][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh1
+[2019.06.28-14.42.06:018][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh10
+[2019.06.28-14.42.06:019][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh11
+[2019.06.28-14.42.06:020][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh12
+[2019.06.28-14.42.06:021][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh13
+[2019.06.28-14.42.06:022][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh14
+[2019.06.28-14.42.06:023][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh15
+[2019.06.28-14.42.06:023][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh16
+[2019.06.28-14.42.06:024][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh17
+[2019.06.28-14.42.06:025][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh18
+[2019.06.28-14.42.06:026][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh19
+[2019.06.28-14.42.06:027][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh2
+[2019.06.28-14.42.06:028][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh20
+[2019.06.28-14.42.06:029][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh21
+[2019.06.28-14.42.06:030][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh22
+[2019.06.28-14.42.06:031][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh23
+[2019.06.28-14.42.06:033][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh24
+[2019.06.28-14.42.06:034][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh25
+[2019.06.28-14.42.06:035][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh26
+[2019.06.28-14.42.06:036][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh27
+[2019.06.28-14.42.06:036][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh28
+[2019.06.28-14.42.06:037][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh29
+[2019.06.28-14.42.06:039][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh3
+[2019.06.28-14.42.06:040][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh30
+[2019.06.28-14.42.06:041][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh31
+[2019.06.28-14.42.06:042][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh32
+[2019.06.28-14.42.06:043][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh33
+[2019.06.28-14.42.06:044][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh34
+[2019.06.28-14.42.06:045][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh35
+[2019.06.28-14.42.06:046][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh36
+[2019.06.28-14.42.06:047][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh37
+[2019.06.28-14.42.06:048][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh38
+[2019.06.28-14.42.06:049][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh39
+[2019.06.28-14.42.06:050][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh4
+[2019.06.28-14.42.06:051][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh40
+[2019.06.28-14.42.06:052][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh41
+[2019.06.28-14.42.06:053][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh42
+[2019.06.28-14.42.06:055][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh43
+[2019.06.28-14.42.06:056][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh5
+[2019.06.28-14.42.06:057][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh6
+[2019.06.28-14.42.06:058][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh7
+[2019.06.28-14.42.06:059][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh8
+[2019.06.28-14.42.06:060][658]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh9
+[2019.06.28-14.42.07:158][680]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.28-14.42.07:180][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh1
+[2019.06.28-14.42.07:216][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh10
+[2019.06.28-14.42.07:251][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh11
+[2019.06.28-14.42.07:285][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh12
+[2019.06.28-14.42.07:320][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh13
+[2019.06.28-14.42.07:354][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh14
+[2019.06.28-14.42.07:390][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh15
+[2019.06.28-14.42.07:428][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh16
+[2019.06.28-14.42.07:465][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh17
+[2019.06.28-14.42.07:503][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh18
+[2019.06.28-14.42.07:537][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh19
+[2019.06.28-14.42.07:574][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh2
+[2019.06.28-14.42.07:613][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh20
+[2019.06.28-14.42.07:655][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh21
+[2019.06.28-14.42.07:701][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh22
+[2019.06.28-14.42.07:741][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh23
+[2019.06.28-14.42.07:780][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh24
+[2019.06.28-14.42.07:816][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh25
+[2019.06.28-14.42.07:855][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh26
+[2019.06.28-14.42.07:891][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh27
+[2019.06.28-14.42.07:930][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh28
+[2019.06.28-14.42.07:966][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh29
+[2019.06.28-14.42.08:003][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh3
+[2019.06.28-14.42.08:038][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh30
+[2019.06.28-14.42.08:076][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh31
+[2019.06.28-14.42.08:113][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh32
+[2019.06.28-14.42.08:147][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh33
+[2019.06.28-14.42.08:185][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh34
+[2019.06.28-14.42.08:221][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh35
+[2019.06.28-14.42.08:257][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh36
+[2019.06.28-14.42.08:294][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh37
+[2019.06.28-14.42.08:329][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh38
+[2019.06.28-14.42.08:371][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh39
+[2019.06.28-14.42.08:413][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh4
+[2019.06.28-14.42.08:463][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh40
+[2019.06.28-14.42.08:507][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh41
+[2019.06.28-14.42.08:551][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh42
+[2019.06.28-14.42.08:587][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh43
+[2019.06.28-14.42.08:622][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh5
+[2019.06.28-14.42.08:658][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh6
+[2019.06.28-14.42.08:693][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh7
+[2019.06.28-14.42.08:729][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh8
+[2019.06.28-14.42.08:766][680]LogActorFactory: Actor Factory created Azotea_Santa_Lidia_Mesh9
+[2019.06.28-14.42.13:020][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.42.38:198][547]LogSlate: Window 'Create Merged Actor' being destroyed
+[2019.06.28-14.42.38:347][547]LogStaticMesh: Generando la malla estática AzoteaPrincipalP2...
+[2019.06.28-14.42.42:448][547]LogStaticMesh: Built static mesh [4.10s] /Game/AzoteaPrincipalP2.AzoteaPrincipalP2
+[2019.06.28-14.42.42:464][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:464][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:464][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:464][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:530][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:530][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:530][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.42:530][547]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.42.55:124][585]LogSlate: Window 'Merge Actors' being destroyed
+[2019.06.28-14.42.55:133][585]LogSlate: Window 'Merge Actors' being destroyed
+[2019.06.28-14.45.10:487][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Azotea_Santa_Lidia_Mesh8)
+[2019.06.28-14.45.12:341][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.45.16:004][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:005][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:005][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:005][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:005][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:006][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:006][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:006][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:006][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:007][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:007][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:007][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:008][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:008][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:008][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:009][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:009][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:009][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:009][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:010][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:010][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:010][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:010][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:011][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:011][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:011][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:011][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:012][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:012][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:012][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:013][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:013][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:013][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:013][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:013][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:014][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:014][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:014][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:015][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:015][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:015][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:015][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:016][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.45.16:051][124]LogEditorActor: Deleted 43 Actors (0.078 secs)
+[2019.06.28-14.45.17:813][298]LogActorFactory: Actor Factory created AzoteaPrincipalP2
+[2019.06.28-14.45.18:573][374]LogActorFactory: Actor Factory created AzoteaPrincipalP2
+[2019.06.28-14.45.39:089][  6]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.28-14.45.47:782][565]LogSlate: Took 0.007901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.28-14.45.51:330][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AzoteaPrincipalP2)
+[2019.06.28-14.45.53:187][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.45.53:329][978]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/AzoteaPrincipalP2.AzoteaPrincipalP2
+[2019.06.28-14.45.54:013][978]LogRenderer: Reallocating scene render targets to support 1616x924 Format 10 NumSamples 1 (Frame:1).
+[2019.06.28-14.45.56:998][118]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.45.56:998][118]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.45.56:999][118]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.45.56:999][118]LogPhysics: Warning: PHYSX: (D:\Build\++UE4\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 232) eINTERNAL_ERROR : Gu::ConvexMesh: Error computing mesh mass properties!
+
+[2019.06.28-14.45.59:437][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AzoteaPrincipalP2" FILE="../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/AzoteaPrincipalP2.uasset" SILENT=true
+[2019.06.28-14.45.59:467][253]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/AzoteaPrincipalP2F3E3C9C34E1DFC124E97A788B44BA5D8.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/AzoteaPrincipalP2.uasset'
+[2019.06.28-14.46.00:012][282]LogSlate: Window 'AzoteaPrincipalP2' being destroyed
+[2019.06.28-14.46.37:871][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.28-14.46.37:895][ 20]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.28-14.46.37:896][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.28-14.46.37:896][ 20]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (28/6/2019 18:46:37)
+[2019.06.28-14.46.37:909][ 20]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.28-14.46.37:929][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019951s)
+[2019.06.28-14.46.37:930][ 20]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.28-14.46.37:930][ 20]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2019.06.28-14.46.37:931][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021712s)
+[2019.06.28-14.46.38:083][ 20]LogInit: XAudio2 using 'Altavoces (2- Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.28-14.46.38:102][ 20]LogInit: FAudioDevice initialized.
+[2019.06.28-14.46.38:151][ 20]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.28-14.46.38:155][ 20]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.28-16.46.38
+[2019.06.28-14.46.38:156][ 20]LogWorld: Bringing up level for play took: 0.002973
+[2019.06.28-14.46.38:175][ 20]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.06.28-14.46.38:177][ 20]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,825
+[2019.06.28-14.46.38:177][ 20]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.28-14.51.27:782][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.28-14.51.27:783][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.51.27:819][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.28-14.51.27:819][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.28-14.51.27:842][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.51.27:882][277]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.28-14.52.30:157][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.31:140][ 49]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.06.28-14.52.31:417][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/FirstPersonExampleMapA49442304060E33CF61693A9BB144AE4.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.28-14.52.31:456][ 49]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.286
+[2019.06.28-14.52.31:502][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotelPrincipal/_auto_" FILE="../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/_auto_.uasset" SILENT=true
+[2019.06.28-14.52.31:523][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/_auto_9350A7FC4364A8DD23BC3CA3F501FA6B.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/_auto_.uasset'
+[2019.06.28-14.52.31:599][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh17C7A186E47E6E2581529DA8553065CBD.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh1.uasset'
+[2019.06.28-14.52.31:670][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh10784CCC1D4AB603FB61E0C69F3DFCBB90.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh10.uasset'
+[2019.06.28-14.52.31:744][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh11E662FA17417BCBF4C02FEABB6E96E3A3.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh11.uasset'
+[2019.06.28-14.52.31:817][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh12A83F3161473E9DE57EDA61955EA12053.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh12.uasset'
+[2019.06.28-14.52.31:888][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh13D07A82664AF48FDDD9F30093F8C871EE.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh13.uasset'
+[2019.06.28-14.52.31:960][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh141AE142514B96EBAD0214FBAF5B604B7F.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh14.uasset'
+[2019.06.28-14.52.32:026][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh15F379DEF44EAF62B912E21684678AB110.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh15.uasset'
+[2019.06.28-14.52.32:097][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh160195E21D4AC23E3FBE42F78AAB7CAA5F.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh16.uasset'
+[2019.06.28-14.52.32:165][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh17BE2CE31A46D94D51750F4F95629927D1.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh17.uasset'
+[2019.06.28-14.52.32:239][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh18AC6D9AC34D1CCCA8C8124A84FC6EDB66.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh18.uasset'
+[2019.06.28-14.52.32:371][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh19DE34ACC74591EE271D7892871AF3128B.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh19.uasset'
+[2019.06.28-14.52.32:478][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh2CD38F51649D1CC42083E1F8DB59A8A1A.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh2.uasset'
+[2019.06.28-14.52.32:573][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh20EE307FA7432353A108702880EBBD95B2.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh20.uasset'
+[2019.06.28-14.52.32:651][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh21DD4D068F4D3B1410CA9BD4916473068C.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh21.uasset'
+[2019.06.28-14.52.32:727][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh22635D78044585B432DE0F0B801EF5DD03.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh22.uasset'
+[2019.06.28-14.52.32:800][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh231FE8760C4F38C6EE4B8662A16736830A.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh23.uasset'
+[2019.06.28-14.52.32:863][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh245375C14F4E38D29CE92EC7AA3C5BE78D.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh24.uasset'
+[2019.06.28-14.52.32:935][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh2542449A8F49F79A09B26FDABAA000AB47.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh25.uasset'
+[2019.06.28-14.52.33:006][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh26A1C750D846BA5BEEB9C0628562661456.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh26.uasset'
+[2019.06.28-14.52.33:073][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh27D93CA9284393CF05EF7862B224EB1041.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh27.uasset'
+[2019.06.28-14.52.33:136][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh28EAA9E2EB4E4ED3FA97F0BE84B4A5807D.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh28.uasset'
+[2019.06.28-14.52.33:202][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh292865E5E34270927E7DFCC69FCF3D6864.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh29.uasset'
+[2019.06.28-14.52.33:268][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh3237A4A5444A7749FF8FB4DBA56022623.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh3.uasset'
+[2019.06.28-14.52.33:335][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh300251CEBF439A27753F808C8DA4F6803C.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh30.uasset'
+[2019.06.28-14.52.33:412][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh311E3BE28440DF458917D525A8D7103C97.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh31.uasset'
+[2019.06.28-14.52.33:480][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh32CE65AC484E9F56AE415E5281F1AB9CCC.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh32.uasset'
+[2019.06.28-14.52.33:547][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh3362C654E04F33E49BB1C233B9A2B54733.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh33.uasset'
+[2019.06.28-14.52.33:612][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh3410B81ACF4D66A170A96FF684C7773AE0.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh34.uasset'
+[2019.06.28-14.52.33:679][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh356A3ED41F4F43421B7F8A619973736299.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh35.uasset'
+[2019.06.28-14.52.33:744][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh36F70CA6BF4CF4F5FC930CBE948B797730.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh36.uasset'
+[2019.06.28-14.52.33:813][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh3710AE94BF4C9A6B5C412897A3B173A98F.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh37.uasset'
+[2019.06.28-14.52.33:880][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh38C8025CBB452A7849342787B4D166A846.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh38.uasset'
+[2019.06.28-14.52.33:945][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh39568E7C874932503324A71EB8F8122CA1.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh39.uasset'
+[2019.06.28-14.52.34:034][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh4C7E1F75F42D1EF2D7FF9EB817DCE2F3B.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh4.uasset'
+[2019.06.28-14.52.34:102][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh4031EBE714489CD3E2F6E0EB94BD606CD2.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh40.uasset'
+[2019.06.28-14.52.34:171][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh41D55AE3F74F393CEA2BAD7A8D423E39CF.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh41.uasset'
+[2019.06.28-14.52.34:241][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh42E0A47BE04A45EE0F21A6E9AC3D3E4637.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh42.uasset'
+[2019.06.28-14.52.34:314][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh434D3F648540620847CFFFAA91FE57D2F3.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh43.uasset'
+[2019.06.28-14.52.34:382][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh5F6B5DC38419A58C90C74E28364F76E78.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh5.uasset'
+[2019.06.28-14.52.34:448][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh6BDC04300458356E6B84699BF713F50D3.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh6.uasset'
+[2019.06.28-14.52.34:516][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh753AFCC7D425A676661881DA063E13760.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh7.uasset'
+[2019.06.28-14.52.34:584][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh80D83F8FE4BE0FEDB122734B288CD89FA.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh8.uasset'
+[2019.06.28-14.52.34:651][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/Azotea_Santa_Lidia_Mesh90AB613184E3497CD47EFB2885B48B917.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/Azotea_Santa_Lidia_Mesh9.uasset'
+[2019.06.28-14.52.34:707][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotelPrincipal/BackColor" FILE="../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/BackColor.uasset" SILENT=true
+[2019.06.28-14.52.34:726][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/BackColor834DF652448BF37BD3966D8975C35F51.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/BackColor.uasset'
+[2019.06.28-14.52.34:777][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotelPrincipal/FrontColor" FILE="../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/FrontColor.uasset" SILENT=true
+[2019.06.28-14.52.34:799][ 49]LogSavePackage: Moving '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Saved/FrontColor783564594B79973A555FA3B4B42838E4.tmp' to '../../../../../../Users/Mario-PC/Desktop/PruebasModelos3D/Content/MotelPrincipal/FrontColor.uasset'
+[2019.06.28-14.52.34:909][ 49]LogSlate: Window 'PruebasModelos3D - Unreal Editor' being destroyed
+[2019.06.28-14.52.35:594][ 50]Cmd: QUIT_EDITOR
+[2019.06.28-14.52.36:130][ 50]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.28-14.52.36:151][ 50]LogExit: Preparing to exit.
+[2019.06.28-14.52.36:875][ 50]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Mario-PC/Desktop/PruebasModelos3D/Content/', and we were unable to create a new request.
+[2019.06.28-14.52.36:897][ 50]LogExit: Editor shut down
+[2019.06.28-14.52.36:898][ 50]LogExit: Transaction tracking system shut down
+[2019.06.28-14.52.37:120][ 50]LogExit: Object subsystem successfully closed.
+[2019.06.28-14.52.37:131][ 50]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.28-14.52.37:135][ 50]LogD3D11RHI: Shutdown
+[2019.06.28-14.52.37:135][ 50]LogD3D11RHI: CleanupD3DDevice
+[2019.06.28-14.52.37:141][ 50]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (624)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.06.28-14.52.37:168][ 50]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.06.28-14.52.37:196][ 50]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.06.28-14.52.37:196][ 50]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.06.28-14.52.37:196][ 50]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.28-14.52.37:197][ 50]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.28-14.52.37:198][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.28-14.52.37:199][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.28-14.52.37:200][ 50]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.28-14.52.38:159][ 50]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.28-14.52.38:160][ 50]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.28-14.52.38:164][ 50]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.28-14.52.38:165][ 50]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.28-14.52.38:230][ 50]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.28-14.52.38:231][ 50]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.28-14.52.38:234][ 50]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.28-14.52.38:345][ 50]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.28-14.52.38:346][ 50]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.28-14.52.38:348][ 50]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.28-14.52.38:349][ 50]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.28-14.52.38:350][ 50]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.28-14.52.38:350][ 50]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.28-14.52.38:350][ 50]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.28-14.52.38:350][ 50]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.28-14.52.38:451][ 50]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.28-14.52.38:551][ 50]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.28-14.52.38:552][ 50]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.28-14.52.38:552][ 50]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.28-14.52.38:552][ 50]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.28-14.52.38:553][ 50]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.28-14.52.38:556][ 50]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.28-14.52.38:562][ 50]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.28-14.52.38:563][ 50]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.28-14.52.38:565][ 50]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.28-14.52.38:622][ 50]LogDerivedDataCache: Shutdown
+[2019.06.28-14.52.38:622][ 50]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.28-14.52.38:623][ 50]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.28-14.52.38:624][ 50]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.28-14.52.38:624][ 50]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.28-14.52.38:624][ 50]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.28-14.52.38:624][ 50]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.28-14.52.38:624][ 50]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.28-14.52.38:625][ 50]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.28-14.52.38:625][ 50]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.28-14.52.38:626][ 50]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.28-14.52.38:626][ 50]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.28-14.52.38:633][ 50]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.28-14.52.38:634][ 50]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.28-14.52.38:634][ 50]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.28-14.52.38:634][ 50]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.28-14.52.38:634][ 50]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.28-14.52.38:634][ 50]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.28-14.52.38:634][ 50]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.28-14.52.38:635][ 50]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.28-14.52.38:635][ 50]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.28-14.52.38:653][ 50]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.28-14.52.38:653][ 50]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.28-14.52.38:653][ 50]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B651D871D-4CC0-2523-D5EE-D2B615FC4D0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=efe6b91746f99a8b86223191d93622a0%7C696ef09d41a44cfe8b903bc91b71afbc%7C756f0108-953f-4832-a286-803986173572&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.28-14.52.38:684][ 50]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.28-14.52.38:686][ 50]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.28-14.52.38:686][ 50]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.28-14.52.38:687][ 50]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.28-14.52.38:691][ 50]LogExit: Exiting.
+[2019.06.28-14.52.38:695][ 50]Log file closed, 06/28/19 16:52:38
