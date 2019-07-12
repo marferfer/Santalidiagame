@@ -1,7 +1,7 @@
 # ROOFTOP GAME
 
 NOMBRE DEL JUEGO:
-<b>--------FALTA ELEGIR---------</b>
+<b> SANTA LIDIA</b>
 
 
 <img src="src/main/resources/static/imgs/Cobaya2.png" align="right">
