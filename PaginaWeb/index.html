@@ -20,6 +20,13 @@
   <!-- Plugin CSS -->
   <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
   <!-- Theme CSS - Includes Bootstrap -->
   <link href="css/creative.css" rel="stylesheet">
 
@@ -40,16 +47,16 @@
             <a class="nav-link js-scroll-trigger" href="#about">Introducción</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Concept Art</a>
+            <a class="nav-link js-scroll-trigger" href="#conceptart">Concept Art</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#models">Modelos</a>
+            <a class="nav-link js-scroll-trigger" href="#modelitos">Modelos</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#portfolio">Ciudad</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#animation">Animación</a>
+            <a class="nav-link js-scroll-trigger" href="#video">Animación</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#team">Equipo</a>
@@ -60,10 +67,11 @@
   </nav>
 
   <div id="header"></div>
-  <div id="intro"></div>
+  <div id="intro"></div> 
   <div id="concept"></div>
-  <div id="images"></div>
   <div id="modelos"></div>
+  <div id="texturizado"></div>
+  <div id="animation"></div>
   <div id="equipo"></div>
   <div id="footer"></div>
 
@@ -77,6 +85,19 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/creative.min.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/main2.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <script> 
     $(function(){
@@ -86,7 +107,8 @@
       $("#concept").load("html/conceptart.html");
       $("#modelos").load("html/modelos.html");
       $("#equipo").load("html/equipo.html");
-      $("#images").load("html/images.html");
+      $("#texturizado").load("html/texturizado.html");
+      $("#animation").load("html/animation.html");
       $("#contact").load("html/contact.html");
       $("#footer").load("html/footer.html");
     });
